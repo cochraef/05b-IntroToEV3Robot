@@ -15,6 +15,7 @@ their colleagues, and Evan Cochrane.
 import rosebotics as rb
 import time
 
+
 def main():
     """ Calls the other functions to test/demo them. """
     go_two_seconds()

@@ -16,7 +16,7 @@ import rosebotics as rb
 def main():
 
     speech = rb.Speech("This is a bad idea.")
-    speech.Play()
+    speech.play()
 
     fun_song =  [(392, 350, 100), (392, 350, 100), (392, 350, 100),
                 (311.1, 250, 100), (466.2, 25, 100), (392, 350, 100),
